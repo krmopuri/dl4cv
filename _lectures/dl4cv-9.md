@@ -18,8 +18,8 @@ hide_from_announcments: false
 links: 
     - url: /static_files/sgd_update_rules.gif
       name: sgd_update_rules.gif
-    - url: https://colab.research.google.com/drive/1__iXdKpepXortelx06I35RYfnu94Dg4t?usp=sharing
-      name: Codes-Update rules implementation
+    #- url: https://colab.research.google.com/drive/1__iXdKpepXortelx06I35RYfnu94Dg4t?usp=sharing
+    #  name: Codes-Update rules implementation
     - url: /static_files/presentations/dl4cv-9.pdf
       name: slides
     #- url: /static_files/presentations/lec.zip
